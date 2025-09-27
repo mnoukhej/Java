@@ -6,6 +6,8 @@
 
 <!-- TREE_START -->
 ```
+├── HelloWorld.class
+├── HelloWorld.java
 ├── README.md
 ├── setup.bat
 └── update_tree.py
