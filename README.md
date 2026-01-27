@@ -32,9 +32,6 @@
 
 ## 📦 Dependencies
 
-<!-- - Python 3.7+
-- pandas
-- openpyxl
-- numpy -->
+
 
 ## 🔧 Configuration
